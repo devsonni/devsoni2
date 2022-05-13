@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: M
+  font: Alice
+  font_size: L
 
 # SEO
 
@@ -32,20 +32,20 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: © 2022 Dev Soni. Powered by the Academic theme of Hugo.
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/devsonni/devsoni2'
     content_dir: content
     branch: master
   avatar:
