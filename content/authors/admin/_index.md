@@ -1,6 +1,4 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
   
 interests:
 - Control System
@@ -8,7 +6,6 @@ interests:
 - Aerial and Rehabilitation Robotics
 - Mechatronics
 - Intelligent System
-- Optimization
 
 education:
   courses:
@@ -41,8 +38,10 @@ superuser: true
 title: Dev Soni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University](https://www.itm.ac.in), where I am specializing in Mechatronics, Robotics & Controls. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since the last summer, I am working at [MOON-Lab](https://sites.google.com/view/m00nlab/home) of [Indian Institute of Science Education and Research, Bhopal](https://www.iiserb.ac.in/) as a Research Intern under the guidance of [Dr. P. B. Sujit](https://eecs.iiserb.ac.in/faculty_profile.php?id=OQ==&lname=c3VqaXQ=) where I am working on cutting edge research topic of Learning Controllers made by combining Artificial Intelligence techniques with core Control System concepts and implementation of them on Robotic Systems for improving iterative performance.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During my graduation, I did many robotics projects and participated in a couple of robotics competitions, some of the selected projects presented under the project section. 
+
+You can find my full CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}} and further information regarding my publication and projects below.
