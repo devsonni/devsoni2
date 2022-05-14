@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: ""
-summary: Lead a team in Robofest2.0 competition under the powered lowered-limb category. Our team was won the competition under that category, it was state-level competition and tier-1 universities like SVNIT, NIRMA University, BVM etc. was participated in that. Click and find more details regarding competition and our project.  
+summary: I was team leader of the winning team in the **Robofest2.0** competition under the powered lower-limb exoskeleton category. The competition was a **state-level** competition, and teams from **tier-1** universities such as **SVNIT, Nirma University, BVM, and more** participated. Click and find more details regarding the competition and our project.  
 tags:
 - Rehabilitation Robotics
 - Mechanical & Mechatronics Design 
