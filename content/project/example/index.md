@@ -1,31 +1,44 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-03-05"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photos by Hiten Patel
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+slides: ""
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-title: Powered Lower-limb Exoskeleton
-url_code: ""
-url_pdf: ""
-url_slides: ""
+- Rehabilitation Robotics
+- Mechanical & Mechatronics Design 
+- Control Systems
+title: Powered Lower Limb Exoskeleton
+url_code: https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton
+url_pdf: https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Pdf/Powered%20Exoskeleton%20-%20ITM%20Vocational%20University.pdf
+url_slides: https://drive.google.com/file/d/1UiS9KuFzgWpcNpdP616V2AENGmsnLGZb/view?usp=sharing
 url_video: ""
 ---
+---------------------------------------------------------------------------------------------------------------------------
+{{< youtube J-kVJl1uBLg >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+---------------------------------------------------------------------------------------------------------------------------    
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+## **This project was build for the ROBOFEST2.0 competition which was organized by GUJCOST (Gujarat Council On Science and Technology)**
+     
+### Competition was conducted in three rounds:
+1. Idealization round (won **50,000 INR** for presenting solid ideas for building exoskeleton robot & for building proof of concept).           
+2. Proof of concept round (won **2,00,000 INR** for building proper working proof of concept & for building final prototype).   
+3. Finale (won **5,00,000 INR** ~ 6,600 USD as a winning prize).
+4. In short, we avail total of **7,50,000 INR** in this project.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+### Technical Details     
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+- Human gait trajectories was analysed & plotted with the use of [**kinovea**](https://www.kinovea.org/) software.
+- Torque requirements of each lower-limb joints was calculated with the use of musculoskeletal model in [**opensim**](https://opensim.stanford.edu/) software.
+- According to torque requirements **DC planetary geared motors** was selected and **spur gears** was designed.
+- Whole body with the gears was designed in **solidworks**.
+- Six proportional derivative and integral (**PID**) controllers was coded on **arduino** micro-controller in a way that follows the angle inputs and feedback was given by **encoders**.
+- All system parameters such as PID constants, speed of exoskeleton, & etc. was tuned by trial and error method.
+
+### Currently, Robot is showcasing at India's first & only Robotics gallery in Ahmadabad, Gujarat.
+### Watch linked video to see robot in working.
