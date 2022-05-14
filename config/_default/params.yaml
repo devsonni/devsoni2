@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: © 2022 Dev Soni. Powered by the Academic theme of Hugo.
+    notice: © 2022 Dev Soni.
     license:
       enable: false
       allow_derivatives: false

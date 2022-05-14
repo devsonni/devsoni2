@@ -9,7 +9,7 @@ interests:
 
 education:
   courses:
-  - course: B.E. (Honors) in Mechatronics Engineering
+  - course: B.Tech in Mechatronics Engineering
     institution: ITM Vocational University, Gujarat, India
     year: 2022
 email: ""
