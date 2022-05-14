@@ -23,7 +23,7 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Learning-based NMPC scheme for filming groung vehicle in iterative manner. Controller is able to learn from previous iteration with the help of reinforcment learning form improving filming performance.
+summary: Learning-based NMPC scheme for filming ground vehicle in iterative manner. Controller is able to learn from previous iteration with the help of Reinforcement Learning form improving filming performance.
 tags: []
 title: Learning-based NMPC Framework for Car Racing Cinematography using Fixed-Wing UAV
 url_code: ""
