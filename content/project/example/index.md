@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: ""
-summary: An example of using the in-built project page.
+summary: Lead a team in Robofest2.0 competition under the powered lowered-limb category. Our team was won the competition under that category, it was state-level competition and tier-1 universities like SVNIT, NIRMA University, BVM etc. was participated in that. Click and find more details regarding competition and our project.  
 tags:
 - Rehabilitation Robotics
 - Mechanical & Mechatronics Design 
@@ -27,7 +27,7 @@ url_video: ""
 ### Competition was conducted in three rounds:
 1. Idealization round (won **50,000 INR** for presenting solid ideas for building exoskeleton robot & for building proof of concept).           
 2. Proof of concept round (won **2,00,000 INR** for building proper working proof of concept & for building final prototype).   
-3. Finale (won **5,00,000 INR** ~ 6,600 USD as a winning prize).
+3. Finale (won **5,00,000 INR** ~ 6,600 USD as a **winning prize**).
 4. In short, we avail total of **7,50,000 INR** in this project.
 
 

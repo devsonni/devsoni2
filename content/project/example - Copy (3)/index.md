@@ -1,31 +1,66 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2021-12-31"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Dev Soni
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+summary: Nonlinear Model Predictive Controller (NMPC) implemented with the use of **CasADi** optimization framework and matlab simulation environment. Controller is able to avoid **Static & Dynamic** **Obstacles** also **State and Control Constraints** of UAV and gimbal was added to make problem realistic.
 tags:
-- Deep Learning
+- Control Systems
+- Optimal Control
 title: Nonlinear Model Predictive Controller for Target Tracking
-url_code: ""
+url_code: https://github.com/devsonni/MPC-Implementation
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: will add soon
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+# NMPC Implementation 🕹️     
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+👉 For simple intiution Model predictive control uses the system model to do prediction of future states of system for some predicted optimal inputs in prediction horizon, and applys only one input and does the same process again to compansate the unmeasured noise or disturbance in system.      
+👉 In this instance our system is unmaned arieal vehicle and it's following the target which is mobile vehicle.       
+👉 The cost function that sould be minimize for predicted inputs is made by the distance between UAV and target which is moving.   
+👉 This code uses the CasADi framework to code NMPC.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+✨ "State predictive model of target" folder of repository has the targets model which feds for the UAV as reference(a moveing reference) and it gives the cost value from the initial point of UAV.      
+✨ "NMPC_TT" has the code of NMPC.      
+
+## ✈️ UAV tracks the target illustration 🔥      
+
+### 📌 UAV without Gimbal      
+
+{{< figure src="TrackWTG1.jpg" caption="UAV Traking Target without Gimbal" numbered="true" >}}
+           
+{{< figure src="TrackTWG.jpg" caption="UAV Traking Target without Gimbal" numbered="true" >}}
+   
+##          
+
+### 📌 UAV with 3-DoF Gimbal         
+{{< figure src="TargetTrack6.jpg" caption="Smooth Tracking with Gimbal" numbered="true" >}}
+        
+{{< figure src="TargetTrack5.jpg" caption="Smooth Tracking with Gimbal" numbered="true" >}}
+        
+{{< figure src="TargetTrack3.jpg" caption="Smooth Tracking with Gimbal" numbered="true" >}}
+      
+
+## 🏢🏗️ Without Obstacle Avoidance      
+{{< figure src="Obstacle2.jpg" caption="Without Obstacle Avoidance (UAV is Colliding with Obstacles)" numbered="true" >}}
+
+## 🏢🏗️ With Obstacle Avoidance       
+{{< figure src="Obstacle3.jpg" caption="With Obstacle Avoidance (Avoiding Collusion with Obstacles)" numbered="true" >}}
+        
+{{< figure src="obstacle5.jpg" caption="With Obstacle Avoidance (Avoiding Collusion with Obstacles)" numbered="true" >}}
+
+
+### 🔗 This code is source code of this paper 📝        
+[NMPC-based UAV 3D Target Tracking In The Presence Of Obstacles and Visibility Constraints](https://ieeexplore.ieee.org/document/9476710)       
+
+
+
+<!-- 
+First           | Second
+----------------|----------------------
+<img align="left" height="500" width="600" src="https://github.com/devsonni/MPC-Implementation/blob/main/gif/TargetTrack6.jpg">|<img align="left" height="500" width="600" src="https://github.com/devsonni/MPC-Implementation/blob/main/gif/TargetTrack6.jpg"> -->
