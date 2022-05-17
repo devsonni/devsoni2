@@ -27,10 +27,18 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Aerial Robotics
+      tag: Aerial Robotics
+    - name: Rehabilitation Robotics
+      tag: Rehabilitation Robotics
+    - name: Reinforcement Learning
+      tag: Reinforcement Learning 
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Control System
+      tag: Control System
+    #- name: Other
+    #  tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

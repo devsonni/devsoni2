@@ -90,4 +90,6 @@
   <url>
     <loc>https://example.com/project/example-copy-2/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/example-copy-5-copy-copy/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/project/example-copy-5-copy-copy/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/updates/</loc><changefreq>weekly</changefreq></url></urlset>

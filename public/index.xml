@@ -755,5 +755,15 @@ $$&lt;/p&gt;
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://example.com/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/updates/</guid>
+      <description>&lt;p&gt;KOn bhai Basanti?
+yes&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

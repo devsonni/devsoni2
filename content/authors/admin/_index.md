@@ -17,7 +17,7 @@ highlight_name: true
 organizations:
 - name: ITM Vocational University
   url: https://www.itm.ac.in
-role: Mechatronics Engineer
+role: Mechatronics Student
 social:
 - icon: envelope
   icon_pack: fas
