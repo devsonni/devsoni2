@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 'https://coursera.org/share/575c2053cc12fef9abebe51b6201d410'
     date_end: ''
     date_start: '2021-01-01'
     description: ''
@@ -32,7 +32,7 @@ item:
     organization_url: https://www.coursera.org
     title: 'Modern Robotics, Course : 1 Foundations of Robot Motion'
     url: 'https://coursera.org/share/575c2053cc12fef9abebe51b6201d410'
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 'https://coursera.org/share/0ec93a459c9d30824c0bfea3ea02da8a'
     date_end: ''
     date_start: '2021-01-01'
     description: ''
@@ -40,7 +40,7 @@ item:
     organization_url: https://www.coursera.org
     title: 'Robotics: Computation Motion Planning'
     url: 'https://coursera.org/share/0ec93a459c9d30824c0bfea3ea02da8a'
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 'https://coursera.org/share/87d1bc004f43a67c3dfb9a9d7cd911e8'
     date_end: ''
     date_start: '2021-01-01'
     description: ''
@@ -48,7 +48,7 @@ item:
     organization_url: https://www.coursera.org
     title: 'Robotics: Aerial Robotics'
     url: 'https://coursera.org/share/87d1bc004f43a67c3dfb9a9d7cd911e8'
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 'https://coursera.org/share/d3d7645a2b3912db4b7c84ff250a729a'
     date_end: ''
     date_start: '2021-01-01'
     description: ''
