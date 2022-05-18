@@ -11,7 +11,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Courses'
 subtitle:
 
 # Date format
@@ -26,28 +26,38 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-01-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: 'Modern Robotics, Course : 1 Foundations of Robot Motion'
+    url: 'https://coursera.org/share/575c2053cc12fef9abebe51b6201d410'
+  - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Robotics: Computation Motion Planning'
+    url: 'https://coursera.org/share/0ec93a459c9d30824c0bfea3ea02da8a'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Robotics: Aerial Robotics'
+    url: 'https://coursera.org/share/87d1bc004f43a67c3dfb9a9d7cd911e8'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies'
+    url: 'https://coursera.org/share/d3d7645a2b3912db4b7c84ff250a729a'
+
+    
 
 design:
   columns: '2'
