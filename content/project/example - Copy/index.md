@@ -12,7 +12,11 @@ links:
 slides: example
 summary: An example of using the in-built project page.
 tags:
+- Reinforcement Learning 
 - Deep Learning
+- Control System
+- Aerial Robotics
+
 title: Learning NMPC with Deep Reinforcement Learning
 url_code: ""
 url_pdf: ""
