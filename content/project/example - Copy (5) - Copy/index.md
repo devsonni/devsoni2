@@ -128,12 +128,12 @@ Explanation of the electric components inside this machine. More information and
 
 ## Images of Compression Machine
 
-{{<gallery>}}
+{{< figure src="Compression 1.jpg" width="200">}}
 
-<!--
-{{< figure src="Compression 1.jpg">}}
+{{< figure src="Compression 2.jpg" width="200">}}
 
-{{< figure src="Compression 2.jpg">}}
+{{< figure src="Compression 3.jpg" width="200">}}
 
-{{< figure src="Compression 3.jpg">}}
--->
+{{< figure src="Compression 4.jpg" width="200">}}
+
+{{< figure src="Compression 5.jpg" width="200">}}
