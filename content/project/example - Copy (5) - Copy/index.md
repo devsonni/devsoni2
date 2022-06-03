@@ -23,9 +23,8 @@ url_video: ""
 - This project was supported by SSIP (Student Start-up and Innovation Policy) of the Gujarat Government and received 83,899 ₹ grand.
 
 # ⚙️ Extrusion Molding Machine
-
 ## 🌐 3D Model
-<iframe width="800" height="400" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extrusion+Molding+machine&model_id=118643&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-118643" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extrusion+Molding+machine&model_id=118643&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=false&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-118643" allowfullscreen></iframe>
 
 
 ## 📓 Technical Information 
@@ -52,7 +51,9 @@ url_video: ""
 | - Heating zones   | 3 |
 | - Heating power: max.   | 2 kW|
 
+## Some details
 
+## Products
 
 # ⚙️ Compression Molding Machine
 
@@ -72,4 +73,9 @@ url_video: ""
 ♻️ Input Flake Size  | Medium, Small  |
 
 ## 🌐 3D Model
-<iframe width="800" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Compression+Basic+V2.0&model_id=96647&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96647" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Compression+Basic+V2.0&model_id=96647&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96647" allowfullscreen></iframe>
+
+
+## Some details
+
+## Products
