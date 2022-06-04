@@ -15,7 +15,7 @@ title: Powered Lower Limb Exoskeleton
 url_code: https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton
 url_pdf: https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Pdf/Powered%20Exoskeleton%20-%20ITM%20Vocational%20University.pdf
 url_slides: https://drive.google.com/file/d/1UiS9KuFzgWpcNpdP616V2AENGmsnLGZb/view?usp=sharing
-url_video: ""
+url_video: "https://youtu.be/J-kVJl1uBLg"
 ---
 ---------------------------------------------------------------------------------------------------------------------------
 {{< youtube J-kVJl1uBLg >}}

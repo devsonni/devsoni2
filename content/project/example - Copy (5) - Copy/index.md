@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: An example of using the in-built project page.
+summary: Motto behind the development of these machines is to recycle plastic waste at the place where it forms means decentralization of the recycling process, with the use of these machines a community can recycle their plastic waste; can produce robust and purposeful products. This project was supported by **SSIP (Student Start-up and Innovation Policy) of the Gujarat Government** and received **83,899 ₹** grand, and these machines are built according to Indian design standards and derivative of [Precious Plastic Community](https://preciousplastic.com/). 
 tags:
 - Machine Design
 - Automation

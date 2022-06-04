@@ -10,10 +10,10 @@ tags:
 - Motion Planning
 - Robot Operating System (ROS)
 title: Factory Automation with Robot Operating System (ROS)
-url_code: ""
+url_code: "https://github.com/devsonni/hrwros_ws"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?feature=player_embedded&v=Wp_6LamoRL0"
 ---
 
 # 💥Factory automation by using ROS(Robot Operating System)🤖        
