@@ -128,12 +128,13 @@ Explanation of the electric components inside this machine. More information and
 
 ## Images of Compression Machine
 
-{{< figure src="Compression 1.jpg" width="500" height="200" align="left">}}
+<img src="https://i.imgur.com/Zwvsyj6.jpg" title="source: imgur.com" width ="350" height="300" align="left">
 
-{{< figure src="Compression 2.jpg" width="500" align="right">}}
+<img src="https://i.imgur.com/jIdz9qM.jpg" title="source: imgur.com" width ="350" height="300" align="right">
 
-{{< figure src="Compression 3.jpg" width="500" align="left">}}
+<img src="https://i.imgur.com/HKfs89y.jpg" title="source: imgur.com" width ="350" height="300" align="left">
 
-{{< figure src="Compression 4.jpg" width="500" align="right">}}
+<img src="https://i.imgur.com/rnWoTs3.jpg" title="source: imgur.com" width ="350" height="300" align="right">
 
-{{< figure src="Compression 5.jpg" width="500" align="left">}}
+<img src="https://i.imgur.com/aCIhP95.jpg" title="source: imgur.com" width ="350" height="300" align="right">
+
