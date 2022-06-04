@@ -23,6 +23,7 @@ url_video: ""
 - This project was supported by SSIP (Student Start-up and Innovation Policy) of the Gujarat Government and received 83,899 ₹ grand.
 
 # ⚙️ Extrusion Molding Machine
+---
 ## 🌐 3D Model
 <iframe width="800" height="400" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extrusion+Molding+machine&model_id=118643&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=false&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-118643" allowfullscreen></iframe>
 
@@ -51,12 +52,26 @@ url_video: ""
 |Heating zones|3| 
 |Heating power: max.|2 kW|
 
-## Some details
+## Images of Extrusion Machine
 
-## Products
+<img src="https://i.imgur.com/6WyfGpz.jpg?1" title="source: imgur.com" width ="350" height="300" align="left">
 
+<img src="https://i.imgur.com/ZzEhEJy.jpg?1" title="source: imgur.com" width ="350" height="300" align="right">     
+
+<img src="https://i.imgur.com/0Q5LSXk.jpg?1" title="source: imgur.com" width ="350" height="300" align="left">
+
+<img src="https://i.imgur.com/ZzEhEJy.jpg?1" title="source: imgur.com" width ="350" height="300" align="right"> 
+
+<img src="https://i.imgur.com/rno091s.jpg" title="source: imgur.com" width ="350" height="300" align="left">
+
+<img src="https://i.imgur.com/a4Tojh6.jpg" title="source: imgur.com" width ="350" height="300" align="right"> 
+
+<img src="https://i.imgur.com/hWrjUfs.jpg" title="source: imgur.com" width ="350" height="300" align="left">
+
+<img src="https://i.imgur.com/t7EOeZh.jpg?1" title="source: imgur.com" width ="350" height="300" align="right">      
+      
 # ⚙️ Compression Molding Machine
-
+---
 The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mold. The process is slower than the extrusion machines but it allows for larger molds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!).
 
 ## 📓 Technical Information
