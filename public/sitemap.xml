@@ -78,11 +78,17 @@
   <url>
     <loc>https://example.com/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/automation/</loc><lastmod>2020-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/example-copy-5-copy/</loc><lastmod>2020-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/electrical-electronics/</loc><lastmod>2020-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/machine-design/</loc><lastmod>2020-02-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/example-copy-5-copy/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -91,5 +97,7 @@
     <loc>https://example.com/project/example-copy-2/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/example-copy-5-copy-copy/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/reinforcement-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/updates/</loc><changefreq>weekly</changefreq></url></urlset>
