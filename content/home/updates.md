@@ -11,10 +11,10 @@ weight: 30
 
 - [Apr 2022] Won ROBOFEST2.0 under the Powered Lower-Limb Exoskeleton category, and received 5,00,000 as a winning prize.
 
-- [Aug 2021] Proof of concept got selected and received 2,00,000 INR for building final prototype at [ROBOFEST2.0](https://gujcost.gujarat.gov.in/robofest-gujarat.htm) competition.
+- [Aug 2021] Proof of concept got selected and received 2,00,000 INR for building the final prototype at [ROBOFEST2.0](https://gujcost.gujarat.gov.in/robofest-gujarat.htm) competition.
 
 - [May 2021] Got research internship opportunity at [MOON-Lab](https://sites.google.com/view/m00nlab/home).
 
-- [Mar 2021] Project of exoskeleton robot got selected in idealization round, and won 50,000 INR for building proof of concept at [ROBOFEST2.0](https://gujcost.gujarat.gov.in/robofest-gujarat.htm) competition organized by [GUJCOST](https://gujcost.gujarat.gov.in/).
+- [Mar 2021] Project of exoskeleton robot got selected in the idealization round and won 50,000 INR for building proof of concept at [ROBOFEST2.0](https://gujcost.gujarat.gov.in/robofest-gujarat.htm) competition organized by [GUJCOST](https://gujcost.gujarat.gov.in/).
 
-- [Feb 2020] Community plastic extrusion and compression molding machine project selected for [Student Start-up and Innovation Policy (SSIP)](http://www.ssipgujarat.in/) by Gujarat government, and got funding of 83,899 INR for building prototype. 
+- [Feb 2020] Community plastic extrusion and compression molding machine project selected for [Student Start-up and Innovation Policy (SSIP)](http://www.ssipgujarat.in/) by Gujarat government, and got funding of 83,899 INR for building a prototype. 

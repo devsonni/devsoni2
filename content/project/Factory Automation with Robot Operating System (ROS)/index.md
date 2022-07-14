@@ -26,13 +26,13 @@ url_video: "https://www.youtube.com/watch?feature=player_embedded&v=Wp_6LamoRL0"
 ##          
 
 ### 🤝 Pub-Sub Mechanism           
-{{< figure src="Pub_Sub.gif" caption="Smooth Tracking with Gimbal" numbered="true" >}}
+{{< figure src="Pub_Sub.gif" caption="Pub-Sub Mechanism" numbered="true" >}}
 
 ### 🧭 Navigation package of ROS.              
-{{< figure src="Navigation (1).gif" caption="Smooth Tracking with Gimbal" numbered="true" >}}            
+{{< figure src="Navigation (1).gif" caption="ROS Navigation stack" numbered="true" >}}            
 
 ### 🎛️ Manipulation by Moveit ROS package.                  
-{{< figure src="Manipulation (1).gif" caption="Smooth Tracking with Gimbal" numbered="true" >}}         
+{{< figure src="Manipulation (1).gif" caption="Manipulation with MoveIt package" numbered="true" >}}         
 
 ### 🙌 Final factory Automation using all these chunks.                
 📽️refer this video for watching whole simulation on youtube.                   

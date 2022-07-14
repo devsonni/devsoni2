@@ -3,7 +3,7 @@
 interests:
 - Control System
 - Artificial Intelligence 
-- Aerial and Rehabilitation Robotics
+- Robotics 
 - Mechatronics
 - Intelligent System
 
