@@ -9,7 +9,7 @@ authors:
 - Prakrit Tyagi
 - P. B. Sujit
 date: "2022-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ICUAS54217.2022.9836154"
 featured: true
 image:
   caption: 'Image credit: -'
